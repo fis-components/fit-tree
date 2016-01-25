@@ -5,6 +5,8 @@
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
-    "version": "0.0.3"
+    "dependencies": {
+        "classnames": "^2.2.3"
+    },
+    "version": "0.0.8"
 }
